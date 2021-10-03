@@ -1,0 +1,32 @@
+.header_div {
+    background: white;
+    color: red;
+    font-family: 'Special Elite', cursive;
+    text-align: center;
+    font-size: 40px;
+}
+
+.NOTE {
+    text-align: center;
+    font-weight: bold;
+}
+
+.Main_div {
+    background: linear-gradient(yellow, orange);
+}
+
+.start_sound {
+    width: 25%;
+    font-size: 30px;
+}
+
+.result_Label, .result_confidence {
+    font-family: 'Special Elite', cursive;
+    color: green;
+    font-size: 28px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
